@@ -1,0 +1,42 @@
+[{
+  "id": 1,
+  "name": "Retro Rewind",
+  "image": "https://github.com/Jonzee1914/React-Portfolio-Page/raw/main/RetroRewind.png",
+  "github": "https://github.com/kelsey-schenk/retro-rewind",
+  "deploy": "https://retro-rewind.herokuapp.com/",
+  "topics": "node, sequelize, handlebars, bulma, express-session, jawsdb, mysql, model-view-controller, dotenv"
+},
+{
+  "id": 2,
+  "name": "Blue Frog Tech Blog",
+  "image": "https://github.com/Jonzee1914/blue-frog-tech-blog/raw/main/blu-frog-demo.gif",
+  "github": "https://github.com/Jonzee1914/blue-frog-tech-blog",
+  "deploy": "https://blue-frog-tech-blog.herokuapp.com/",
+  "topics": "HTML, CSS, bootstrap, javascript, node.js, express, mongodb, mongoose"
+},
+{
+  "id": 3,
+  "name": "HTML/CSS Portfolio",
+  "image": "https://github.com/Jonzee1914/personal-portfolio-challenge/raw/main/jonzee1914-personal-portfolio-challenge.jpg",
+  "github": "https://github.com/Jonzee1914/personal-portfolio-challenge",
+  "deploy": "https://jonzee1914.github.io/personal-portfolio-challenge/",
+  "topics": "html, css, bootstrap"
+},
+{
+  "id": 4,
+  "name": "eventAdvisor",
+  "image": "https://github.com/Jonzee1914/Weather-Watcher/raw/main/weather-watcher-demo.gif",
+  "github": "https://github.com/Jonzee1914/Event-Advisor",
+  "deploy": "https://jonzee1914.github.io/Event-Advisor/",
+  "topics": "moment.js, javascript, jQuery, localStorage, API"
+},
+{
+  "id": 5,
+  "name": "WeatherWatcher",
+  "image": "https://github.com/jakekelly44/weather-dashboard/raw/master/assets/doc/weather_dashboard_proof_1.png",
+  "github": "https://github.com/Jonzee1914/Weather-Watcher",
+  "deploy": "https://jonzee1914.github.io/Weather-Watcher/",
+  "topics": "moment.js, javascript, jQuery, localStorage, API"
+}
+
+]
